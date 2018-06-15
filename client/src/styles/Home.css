@@ -1,0 +1,11 @@
+.username_container{
+    width: 20rem;
+    float: right;
+    color: white;
+    margin: 3%;
+    direction: rtl !important;
+    text-align: right !important;
+}
+.username_container label{
+    right: .75rem !important;
+}
